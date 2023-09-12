@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Ejm2 {
     public static void main(String[] args) {
+        System.out.println("Modificacion 3");
+        
         int num;
         Scanner sc = new Scanner(System.in);
         num = sc.nextInt();
